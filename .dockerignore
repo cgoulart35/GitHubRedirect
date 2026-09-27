@@ -1,0 +1,12 @@
+.git
+.gitignore
+Logs/
+redirects/
+__pycache__/
+*.pyc
+*.key
+*.crt
+*.csr
+*.pem
+*.env
+README.md

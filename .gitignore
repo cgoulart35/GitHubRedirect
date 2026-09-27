@@ -1,0 +1,14 @@
+# Never commit keys, certs or env files — mount them at runtime instead.
+*.key
+*.crt
+*.csr
+*.pem
+*.env
+
+# Runtime output
+Logs/
+__pycache__/
+*.pyc
+
+# Local config left over from the pre-Docker setup
+redirects/
